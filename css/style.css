@@ -1,0 +1,9 @@
+.correct {
+    border-color: green;
+}
+.wrong {
+    border-color: red;
+}
+.form {
+    margin-top: 21rem;
+}
